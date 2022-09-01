@@ -1,0 +1,30 @@
+body {
+  background: rgb(241, 199, 130);
+}
+h1 {
+  color: rgb(186, 31, 31);
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+.menu {
+  text-align: center;
+  font-size: 18px;
+  padding: 20px;
+}
+.margin {
+  margin: 20px;
+}
+.color-menu {
+  color: green;
+}
+p {
+  text-align: center;
+  font-size: 16px;
+  padding: 20px;
+}
+#email {
+  font-weight: bold;
+}
